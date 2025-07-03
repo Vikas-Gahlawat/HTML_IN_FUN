@@ -3,13 +3,7 @@ body {
     padding: 20px;
 }
 
-.box {
-    background: lightblue;
-    width: 100%;
-    max-width: 600px;
-    margin: auto;
-}
 h1 {
-    color: blue;
+    color: #f1f1f19f;
     text-align: center;
 }
